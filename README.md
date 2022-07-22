@@ -19,6 +19,7 @@ Projekt został zrealizowany w środowisku CoDeSys V3.15 SP15.
 
 - Zaprojektować układ sterowania dwoma siłownikami zapewniający po naciśnięciu przycisku X i wyborze cyklu pracy wykonanie 
 odpowiedniego cyklu (cykle są opisane w szczegołach projeku).
+- Działanie siłowników można zasymulować korzystając z timerów. Projekt wykonać korzystając z języka FBD lub SFC. Układ sekwencyjny można zaprojektować, korzystając z metody Moore’a. Do kodowania stanów wykorzystać przerzutniki RS.
 
 Projekt został zrealizowany w środowisku CoDeSys V3.15 SP15.
 
