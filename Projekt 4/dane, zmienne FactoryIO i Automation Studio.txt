@@ -1,0 +1,25 @@
+Discharge valve, fill valve, flow meter, level meter: 0-10.0 [V]
+ 
+Zbiornik 300 [mm] ma, ale i tak na sygna³ elektryczny
+
+Setpoint: 	0-10 V
+PV, SP:  	integer
+start  + lampka
+stop   + lampka
+reset  + lampka
+
+Zmienne studio:
+
+IO_PoziomZadany
+IO_PoziomZbiornik
+IO_ZaworCV
+IO_Start
+IO_Stop
+IO_Reset
+TrybAuto (1= ON; 0 = manual)
+TrybPracy (0 = Normal; 1 = reverse)
+Kp
+Ki
+Kd
+odchylka
+
