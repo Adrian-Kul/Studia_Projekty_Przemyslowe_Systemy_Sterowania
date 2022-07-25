@@ -1,0 +1,6 @@
+VAR
+	licz : INT;
+	paraEnter : BOOL;
+	PID_zawor : LCRPID;
+	PID_parametry : LCRPIDpara;
+END_VAR
