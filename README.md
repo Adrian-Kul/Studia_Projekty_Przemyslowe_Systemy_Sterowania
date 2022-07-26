@@ -39,3 +39,5 @@ transmitancji (układ inercyjny z opóźnieniem).
 z metod doboru nastaw podanych w skrypcie do wykładu (uzasadnić wybór).
 5. Wyznaczyć standardowe wskaźniki jakości regulacji w dziedzinie czasu,
 dla różnych regulatorów.
+
+Projekt został zrealizowany w środowisku Automation Studio V4.7, natomiast symulacja została przeprowadzona w środowisku Factory I/O.
